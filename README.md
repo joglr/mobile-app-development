@@ -13,3 +13,5 @@ https://github.com/joglr/kotlin/blob/main/exercise02.kts
 I've also added a README for instructions to setup the kotlin compiler. It can be used in script mode using the `run.bat` script.
 
 ## [Week 3](https://learnit.itu.dk/mod/resource/view.php?id=149657)
+
+This week we have added multiple activities in the Scooter Sharing app. We learned to used databindings, so findViewById calls are no longer necesessary
