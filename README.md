@@ -11,3 +11,5 @@ This week, I've learned the basics of the kotlin language and solved exercises i
 https://github.com/joglr/kotlin/blob/main/exercise02.kts
 
 I've also added a README for instructions to setup the kotlin compiler. It can be used in script mode using the `run.bat` script.
+
+## [Week 3](https://learnit.itu.dk/mod/resource/view.php?id=149657)
